@@ -1,19 +1,19 @@
-# Project 6 - *Name of App Here*
+# Project 6 - *BeReal*
 
-Submitted by: **Your Name Here**
+Submitted by: **Samuel Evans-Lupton**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**BeReal** is an app that is anti-socia media
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can launch camera to take photo instead of photo library
-- [ ] User session persists when application is closed and relaunched
-- [ ] Users are able to log out and return to sign in page
-- [ ] Users are NOT able to see other photos until they upload their own	
+- [x] User can launch camera to take photo instead of photo library
+- [x] User session persists when application is closed and relaunched
+- [x] Users are able to log out and return to sign in page
+- [x] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
@@ -34,11 +34,11 @@ I created with igmu.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Awesome Project 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Samuel Evans-Lupton]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
