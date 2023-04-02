@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/ksmhD3P.gif" width=200><br>
+<img src="https://i.imgur.com/btVfhd5.gif" width=200><br>
 
 I created with igmu.com  
 
