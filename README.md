@@ -1,4 +1,4 @@
-# Project 6 - *BeReal*
+# *BeReal* (Remake)
 
 Submitted by: **Samuel Evans-Lupton**
 
