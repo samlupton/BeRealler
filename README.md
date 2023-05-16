@@ -1,28 +1,6 @@
 # *BeReal* (Remake)
 
-Submitted by: **Samuel Evans-Lupton**
-
-**BeReal** is an app that is anti-socia media
-
-Time spent: **4** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] User can launch camera to take photo instead of photo library
-- [x] User session persists when application is closed and relaunched
-- [x] Users are able to log out and return to sign in page
-- [x] Users are NOT able to see other photos until they upload their own	
- 
-The following **optional** features are implemented:
-
-- [ ] User receive notifcation when it is time to post
-- [ ] Users can make comments and view comments in posts	
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+**BeReal** is an app that is anti-socia media. This takes inspiration from the original app, BeReal.
 
 ## Video Walkthrough
 
@@ -30,11 +8,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/btVfhd5.gif" width=200><br>
 
-I created with igmu.com  
-
 ## Notes
 
-Awesome Project 
+Uses backend server, Parse.
 
 ## License
 
