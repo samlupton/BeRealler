@@ -1,6 +1,6 @@
-# *BeReal* (Remake)
+# *BeRealler*
 
-**BeReal** is an app that is anti-socia media. This takes inspiration from the original app, BeReal.
+**BeRealler** is an anti-socia media app that takes inspiration from the original app, BeReal.
 
 ## Video Walkthrough
 
